@@ -1,0 +1,22 @@
+{
+  "name": "testcases_csoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryba1kin/testcases_csoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryba1kin/testcases_csoft/issues"
+  },
+  "homepage": "https://github.com/ryba1kin/testcases_csoft#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.15"
+  }
+}
