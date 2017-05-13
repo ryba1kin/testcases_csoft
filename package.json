@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ryba1kin/testcases_csoft#readme",
   "dependencies": {
-    "nightwatch": "^0.9.15"
+    "nightwatch": "^0.9.15",
+    "selenium-standalone": "^6.4.1"
   }
 }
